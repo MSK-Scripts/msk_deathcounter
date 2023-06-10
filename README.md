@@ -1,6 +1,8 @@
 # MSK DeathCounter
 MSK DeathCounter - Deathcounter integrated in myMultichar
 
+**Forum Post:** https://forum.cfx.re/t/esx-msk-deathcounter-integrated-in-mymultichar/4863428
+
 ## Installation
 **Documentation:** https://musiker15.gitbook.io/msk-scripts/deathcounter
 
