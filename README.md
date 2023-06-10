@@ -1,5 +1,4 @@
-# MSK DeathCounter
-MSK DeathCounter - Deathcounter integrated in myMultichar
+![MSK Deathcounter](https://github.com/MSK-Scripts/msk_deathcounter/assets/49867381/e8aaafaa-1af3-469a-8a66-db8f36602a16)
 
 **Forum Post:** https://forum.cfx.re/t/esx-msk-deathcounter-integrated-in-mymultichar/4863428
 
