@@ -10,3 +10,7 @@ MSK DeathCounter - Deathcounter integrated in myMultichar
 * /deathcounter ID - shows the current deathcount
 * /deathcounter ID reset - resets the current deathcount to 0
 * /deathcounter ID set deathcount - sets the current deathcount to a specific count
+
+## Requirements
+* ESX 1.1, ESX 1.2, ESX Legacy
+* oxmysql
